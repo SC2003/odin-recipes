@@ -1,0 +1,12 @@
+.main-container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+.main-heading {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
